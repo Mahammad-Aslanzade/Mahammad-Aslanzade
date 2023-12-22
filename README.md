@@ -1,5 +1,4 @@
-# 💫 About Me:
-⚡ Frontend Developer
+# 💫 Frontend Developer:
 
 
 ## 🌐 Socials:
