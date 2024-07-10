@@ -1,5 +1,5 @@
-# 💫 About Me:
-Backend Developer (Java)
+# 💫 Backend Developer (Java)
+
 
 
 ## 🌐 Socials:
